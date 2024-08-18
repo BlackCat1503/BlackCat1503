@@ -10,9 +10,9 @@
 
 ### 🔧 My Skills
 ---
-- **Programming Languages:** Python, C, Java, HTML/CSS, JS
+- **Programming Languages:** Python, C, Java, HTML/CSS, JS, BASH
 - **Technologies:** Angular
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Linux
 - **Databases:** PostgreSQL
 
 ### 🚀 My Projects
