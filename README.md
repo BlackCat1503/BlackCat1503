@@ -17,17 +17,17 @@
 
 ### 🚀 My Projects
 ---
-It's empty for now, but it won't be for long 🤖
+It's empty for now, but it won't be so long 🤖
 
-### 📫 How to Reach Me
+### 📫 How to Contact Me
 ---
 - **Email:** [BlackCat.1503@yandex.ru](mailto:BlackCat.1503@yandex.ru)
 - **GitHub:** [BlackCat1503](#https://github.com/BlackCat1503)
 
 ### 🤝 In search of work and new opportunities
 ---
-I am always open for cooperation! If you have an idea or a project that you think might interest me, don't hesitate to contact me.
+I am always ready for cooperation! If you have an idea or a project that you think might interest me, don't hesitate to contact me.
 
 ---
 
-*Thanks for stopping by my profile!*
+*Thank you for paying attention to my profile!*
