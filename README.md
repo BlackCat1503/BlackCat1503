@@ -22,7 +22,7 @@
 Projects completed during my frontend training at Yandex Practicum:
 
 - [Stellar-burgers](https://github.com/BlackCat1503/Stellar-burgers) — interactive burger constructor with routing, authorization and API integration
-- [Mesto_project](https://github.com/BlackCat1503/Mesto_project) — social photo-sharing сервис with profiles, likes and popup forms
+- [Mesto_project](https://github.com/BlackCat1503/Mesto_project) — social photo-sharing service with profiles, likes and popup forms
 - [Travel-around-Russia](https://github.com/BlackCat1503/Travel-around-Russia) — adaptive landing page about traveling across Russia
 - [Start-study](https://github.com/BlackCat1503/Start-study) — educational multi-page website with responsive layout
 
