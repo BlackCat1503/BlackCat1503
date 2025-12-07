@@ -12,7 +12,7 @@
 ---
 - **Programming Languages:** Python, C, Java, HTML/CSS, JS, BASH
 - **Technologies:** Angular
-- **Tools:** Git, Docker, Linux
+- **Tools:** Git, Docker, Linux, Cisco, VMware  
 - **Databases:** PostgreSQL
 
 ### 🚀 My Projects
