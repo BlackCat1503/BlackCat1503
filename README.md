@@ -17,7 +17,19 @@
 
 ### 🚀 My Projects
 ---
-It's empty for now, but it won't be so long 🤖
+📘 Yandex Practicum (Frontend Training Projects)
+
+Projects completed during my frontend training at Yandex Practicum:
+
+- [Stellar-burgers](https://github.com/BlackCat1503/Stellar-burgers) — interactive burger constructor with routing, authorization and API integration
+- [Mesto_project](https://github.com/BlackCat1503/Mesto_project) — social photo-sharing сервис with profiles, likes and popup forms
+- [Travel-around-Russia](https://github.com/BlackCat1503/Travel-around-Russia) — adaptive landing page about traveling across Russia
+- [Start-study](https://github.com/BlackCat1503/Start-study) — educational multi-page website with responsive layout
+
+🎓 School 21 (Sber)
+
+All projects related to my education at School 21 are stored in a separate folder:
+- [Sh21](https://github.com/BlackCat1503/Sh21) — collection of educational projects
 
 ### 📫 How to Contact Me
 ---
