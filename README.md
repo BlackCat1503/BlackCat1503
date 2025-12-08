@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 ---
-🎓 3rd year student of Data Engineering at the Financial University under the Government of the Russian Federation
+🎓 4th year student of Data Engineering at the Financial University under the Government of the Russian Federation
 
 💻 At the same time, I'm learning the art of full-stack development
 
